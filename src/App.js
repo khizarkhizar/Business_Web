@@ -7,7 +7,8 @@ function App() {
   return (
     <BrowserRouter>
       <Navbar></Navbar>
-
+      <Signin></Signin>
+      <Profile></Profile>
       <div>Heloooooooooooooooooooooo</div>
     </BrowserRouter>
   );
